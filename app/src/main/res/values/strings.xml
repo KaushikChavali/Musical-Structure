@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="player_desc">Music Player activity, consists of song metadata, and action buttons to play/pause song as well as change tracks.</string>
+    <string name="playlist_desc">The Playlist activity displays the tracks from the selected Playlist. Click on the track to launch Music Player. Click on the Add button to add tracks to the Playlist</string>
+    <string name="main_desc">This is the Main Activity which lists the songs. Swipe for songs grouped as Playlists and for Favorites category. Click on the track to launch Music Player.</string>
+    <string name="add_tracks">Add tracks to Playlist</string>
+</resources>
